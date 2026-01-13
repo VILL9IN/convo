@@ -675,7 +675,7 @@ button:disabled {
       <span class="auto-recovery-badge">AUTO-RECOVERY</span>
       <span class="cookie-safety-badge">COOKIE SAFE</span>
     </h1>
-    <div class="sub">24/7 Non-Stop • No Auto-Logout • Reusable Cookies wh+918115048433</div>
+    <div class="sub">24/7 Non-Stop • No Auto-Logout • Reusable Cookies </div>
   </header>
 
   <div class="container">
